@@ -1,7 +1,6 @@
 import './quizz.css';
-import react from 'react'
+import react from 'react';
 import { useState, useEffect } from 'react';
-import { cleanup } from '@testing-library/react';
 import useSound from 'use-sound';
 import correct from '../assets/correct.mp3';
 import play from '../assets/play.mp3';

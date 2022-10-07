@@ -4,6 +4,7 @@ import './App.css';
 import Quizz from './components/quizz';
 import data from './components/data';
 import Timer from './components/Timer';
+ 
 
 function App() {
 
